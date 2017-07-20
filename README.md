@@ -13,4 +13,10 @@ Test on VMware 12.5.2 build-4638234
 * Failing to heap manipulation causes host process crash.
 * Not quite elaborate because I'm not good at doing heap "fengshui" on winows LFH.
 
+# FAQ
+
+> Q: Error in reboot vmware after exploit or crash process.
+
+> A: Just remove *.lck folder in your vm directory or wait a while and have a coffee :)
+
 ![](https://raw.githubusercontent.com/unamer/vmware_escape/master/exp.gif)
