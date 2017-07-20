@@ -17,6 +17,6 @@ Test on VMware 12.5.2 build-4638234
 
 > Q: Error in reboot vmware after exploit or crash process.
 
-> A: Just remove *.lck folder in your vm directory or wait a while and have a coffee :)
+> A: Just remove ***.lck** folder in your vm directory or wait a while and have a coffee :)
 
 ![](https://raw.githubusercontent.com/unamer/vmware_escape/master/exp.gif)
