@@ -8,4 +8,9 @@ Compiler: VS2013
 
 Test on VMware 12.5.2 build-4638234
 
+# Known issues
+
+* Failure on heap manipulation causes host process crash.
+* Not too much elaborate because I'm not good at doing heap "fengshui" on winows LFH.
+
 ![](https://raw.githubusercontent.com/unamer/vmware_escape/master/exp.gif)
