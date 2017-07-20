@@ -10,7 +10,7 @@ Test on VMware 12.5.2 build-4638234
 
 # Known issues
 
-* Failure to heap manipulation causes host process crash.
+* Failing to heap manipulation causes host process crash.
 * Not quite elaborate because I'm not good at doing heap "fengshui" on winows LFH.
 
 ![](https://raw.githubusercontent.com/unamer/vmware_escape/master/exp.gif)
