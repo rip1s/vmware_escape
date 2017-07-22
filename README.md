@@ -1,3 +1,3 @@
-# vmware_escape
+# VMware Escape Exploit
 
 VMware Escape Exploit Repo
